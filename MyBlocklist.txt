@@ -1,1 +1,2 @@
-||skynewsarabia.com^
+||virustotal.com^$document
+||skynewsarabia.com^$document
